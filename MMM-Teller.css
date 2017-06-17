@@ -1,0 +1,14 @@
+.MMM-Teller .p{
+	text-align: justify
+}
+.MMM-Teller .imgDes {
+  width: 13%;
+  height: 13%;
+  margin-left: 10px;
+  margin-right: 10px;
+  overflow: hidden;
+  float: left;
+}
+.MMM-Teller .date {
+	float: left;
+}
